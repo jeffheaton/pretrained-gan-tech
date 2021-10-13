@@ -8,5 +8,5 @@ I created a GAN neural network to generate Technology images at 1024x1024 resolu
 Other resources:
 
 * [My Docker Images for Creating/Training GAN neural Networks](https://hub.docker.com/r/heatonresearch/stylegan2-ada)
-* [Notebook to Create your own Images](https://github.com/jeffheaton/pretrained-gan-minecraft/blob/main/tech-gan.ipynb)
+* [Notebook to Create your own Images](https://github.com/jeffheaton/pretrained-gan-tech/blob/main/tech-gan.ipynb)
 * [Pretrained Neural Network Binary](https://github.com/jeffheaton/pretrained-gan-tech/releases/)
